@@ -4,6 +4,6 @@ This page contains the dataset of the spike and laser timestamps from Kravitz, O
 
 The code will analyze spike trains around laser pulses to determine if a cell is significantly activated by the laser, and therefore expresses an excitatory opsin, such as channelrhodopsin-2. It returns an excel sheet that simply identifies the activated cells. 
 
-To use scripts: 
-1. Download the .m files from the laser_shuffle_scripts directory
+To use scripts: <br>
+1. Download the .m files from the laser_shuffle_scripts directory<br>
 2. Follow instructions in laser_shuffle_readme file
