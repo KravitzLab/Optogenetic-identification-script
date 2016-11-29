@@ -6,4 +6,4 @@ The code will analyze spike trains around laser pulses to determine if a cell is
 
 To use scripts: <br>
 1. Download the .m files from the laser_shuffle_scripts directory<br>
-2. Follow instructions in laser_shuffle_readme file
+2. Follow instructions in laser_shuffle_readme file. A sample data file is provided.
